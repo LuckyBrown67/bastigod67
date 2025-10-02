@@ -13,9 +13,10 @@ st.logo(
     "li.webp",
 )
 #para iniciar las paginas
-pg = st.navigation(["quienes_somos.py", "home.py", "intro.py", "cancione.py", "Trayectoria_y_logros.py", "Estilo_musical.py", "Colaboraciones.py", "Influencia_en_redes_sociales.py", "proyectos.py", "Reconocimientos_y_critica.py"])
+pg = st.navigation(["quienes_somos.py", "home.py", "intro.py", "cancione.py", "Trayectoria_y_logros.py", "Estilo_musical.py", "Colaboraciones.py", "Influencia_en_redes_sociales.py", "proyectos.py", "Reconocimientos_y_Critica.py"])
 
 pg.run()
+
 
 
 
