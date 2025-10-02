@@ -10,6 +10,7 @@ st.badge("Colaboraciones", color="green", icon=":material/chevron_right:")
 st.header("Las Colaboraciones de Lucky Brown", divider=True)
 #imagen mas una descripción
 st.image("colabs.webp", caption="Estilo")
+st.video("https://youtu.be/IHvo4wnEsrg?si=NAx1EqhXEFE61XQz")
 #escritura
 st.write(
 """
@@ -21,3 +22,4 @@ Gracias a estas colaboraciones, Lucky Brown no solo ha conseguido cifras altas d
 
 ...***
 """)
+
